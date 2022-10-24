@@ -92,7 +92,7 @@
                     android:textAppearance="?attr/textAppearanceBody1"
                     android:text='@{viewModel.menuItems["chili"].name}'
                     tools:text="Entree 2"
-                    android:onClick='@{() -> viewModel.setEntree("cauliflower")}'/>
+                    android:onClick='@{() -> viewModel.setEntree("chili")}'/>
 
                 <TextView
                     android:id="@+id/chili_description"

@@ -310,7 +310,7 @@ public class FragmentEntreeMenuBindingImpl extends FragmentEntreeMenuBinding imp
 
 
 
-                    viewModel.setEntree("cauliflower");
+                    viewModel.setEntree("chili");
                 }
                 break;
             }
